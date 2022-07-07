@@ -10,6 +10,6 @@ curl https://bun.sh/install | bash
 
 ## Bun CLI
 
-> `bun run` - running JavaScript & TypeScript files with bun's JavaScript runtime also runs package.json
-> `bun install` - install is an npm-compatible package manager
-> `bun wiptest` - A Jest-like test runner for JavaScript & TypeScript projects builtin
+1. `bun run` - running JavaScript & TypeScript files with bun's JavaScript runtime also runs package.json
+2. `bun install` - install is an npm-compatible package manager
+3. `bun wiptest` - A Jest-like test runner for JavaScript & TypeScript projects builtin
